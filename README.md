@@ -1,6 +1,6 @@
 # 🌐 Vladerking GitHub Pages
 
-¡Bienvenido a mi portafolio personal alojado en **GitHub Pages**! 🎉
+¡Bienvenido a mi currículum personal alojado en **GitHub Pages**! 🎉
 
 Accede al sitio aquí:  
 **[Vladerking.github.io](https://vladerking.github.io/)**
@@ -11,12 +11,14 @@ Accede al sitio aquí:
 
 Este repositorio forma parte de un ejercicio académico realizado durante el ciclo formativo de **Desarrollo de Aplicaciones Web y Multiplataforma**. Está diseñado para servir como portafolio personal, donde comparto información sobre mi.
 
+**Última actualización de la información: Abril de 2024.**
+
 ---
 
 ## 🚀 Tecnologías Utilizadas
 
 - **HTML5**: Para la estructura del sitio.  
-- **CSS3**: Para estilos visuales personalizados.  
+- **Bootstrap**: Utilizado para toda la parte visual del sitio (CSS3) y la funcionalidad interactiva (JavaScript)
 - **GitHub Pages**: Para el despliegue.
 
 ---
